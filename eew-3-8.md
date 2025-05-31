@@ -359,3 +359,17 @@ Going towards a higher place or level.
 - If the bird wants to reach its nest, it will fly **upwards**. (Conditional Sentence Type 1)
 - If the bird wanted to reach its nest, it would fly **upwards**. (Conditional Sentence Type 2)
 - If the bird had wanted to reach its nest, it would have flown **upwards**. (Conditional Sentence Type 3)
+
+## THE ANNIVERSARY GIFT
+
+<audio controls src="eew-3-8/Unit 8- The Anniversary Gift (1).mp3" title="Title"></audio>
+
+Joe was a carpenter. He bulit houses in the highlands. Joe's wife Stella used a needle and thread to sew elegant clothing. She only used beautiful fabric to make clothes.
+
+Since they didn't have a lot of money, they lived in an old shed. Water dripped in when it rained. They had broken chairs instead of a couch. But they had coal for heat, and flour from the mill for bread. Together, they trimmed the bushes to make their house look nice. Joe and Stella were poor, but not ashamed. They were happy.
+
+Sometimes in the evening, they walked downtown. They looked in store windows and dreamed. Stella wanted a hairbrush with an ivory handle. Joe wanted to fix his grandfather's watch.
+
+For their anniversary, Stella wanted to get Joe what he wanted. But then she did the arithmetic. It would take at least six months to save enough money. Then she had an idea. She cut off all of her hair and sold it.
+
+Meanwhile, Joe knew that he could never fix his watch. So he polished it and sold it. He made enough to buy the brush. On their anniversary, the door burst open. Joe was excited to give Stella his gift. But first, Stella gave him the money to fix the watch. When he saw his wife without any hair, he smiled. " I sold my watch to buy you something", Joe said. He gave her the brush, and she laughed. They wer both willing to give up something very special to make each other happy.
