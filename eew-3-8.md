@@ -3,7 +3,8 @@
 
 ### 1. anniversary (n)
 A date that is remembered or celebrated because a special or important thing happened on that date in the past.
-[Ảnh minh họa](eew-3-8/1.png)
+
+![Ảnh minh họa](eew-3-8/1.png)
 - My parents have a wedding **anniversary** every year. (Simple Present)
 - I am having an **anniversary** party next week. (Present Continuous)
 - My parents will have an **anniversary** next year. (Simple Future)
@@ -21,7 +22,7 @@ A date that is remembered or celebrated because a special or important thing hap
 
 ### 2. arithmetic (n)
 Math that involves adding, subtracting, multiplying, and dividing.
-[Ảnh minh họa](eew-3-8/2.png)
+![Ảnh minh họa](eew-3-8/2.png)
 - I learn **arithmetic** at school. (Simple Present)
 - I am learning **arithmetic** now. (Present Continuous)
 - I will learn **arithmetic** next year. (Simple Future)
