@@ -40,7 +40,7 @@ Math that involves adding, subtracting, multiplying, and dividing.
 
 ### 3. ashamed (adj)
 Feeling sorry for doing something wrong.
-[Ảnh minh họa](eew-3-8/3.png)
+![Ảnh minh họa](eew-3-8/3.png)
 - I am **ashamed** of my bad behavior. (Simple Present)
 - I am being **ashamed** because I did something wrong. (Present Continuous)
 - I will be **ashamed** if I fail the exam. (Simple Future)
@@ -58,7 +58,7 @@ Feeling sorry for doing something wrong.
 
 ### 4. burst (v)
 To break open or apart suddenly and violently.
-[Ảnh minh họa](eew-3-8/4.png)
+![Ảnh minh họa](eew-3-8/4.png)
 - The balloon **bursts** when I poke it. (Simple Present)
 - The balloon is **bursting** because it has too much air. (Present Continuous)
 - The balloon will **burst** if you put too much air in it. (Simple Future)
@@ -76,7 +76,7 @@ To break open or apart suddenly and violently.
 
 ### 5. carpenter (n)
 A person who makes things out of wood.
-[Ảnh minh họa](eew-3-8/5.png)
+![Ảnh minh họa](eew-3-8/5.png)
 - The **carpenter** makes chairs. (Simple Present)
 - The **carpenter** is making a table. (Present Continuous)
 - The **carpenter** will make a door. (Simple Future)
@@ -94,7 +94,7 @@ A person who makes things out of wood.
 
 ### 6. coal (n)
 A black rock that is burned to produce heat.
-[Ảnh minh họa](eew-3-8/6.png)
+![Ảnh minh họa](eew-3-8/6.png)
 - We burn **coal** to keep warm. (Simple Present)
 - We are burning **coal** in the winter. (Present Continuous)
 - We will burn **coal** to heat the house. (Simple Future)
@@ -112,7 +112,7 @@ A black rock that is burned to produce heat.
 
 ### 7. couch (n)
 A long, soft seat that people can sit or lie on.
-[Ảnh minh họa](eew-3-8/7.png)
+![Ảnh minh họa](eew-3-8/7.png)
 - I sit on the **couch**. (Simple Present)
 - I am sitting on the **couch** now. (Present Continuous)
 - I will sit on the **couch** later. (Simple Future)
@@ -130,7 +130,7 @@ A long, soft seat that people can sit or lie on.
 
 ### 8. drip (v)
 To fall in small drops.
-[Ảnh minh họa](eew-3-8/8.png)
+![Ảnh minh họa](eew-3-8/8.png)
 - The water **drips** from the tap. (Simple Present)
 - The water is **dripping** from the tap. (Present Continuous)
 - The water will **drip** if you don't turn off the tap. (Simple Future)
@@ -148,7 +148,7 @@ To fall in small drops.
 
 ### 9. elegant (adj)
 Beautiful and stylish.
-[Ảnh minh họa](eew-3-8/9.png)
+![Ảnh minh họa](eew-3-8/9.png)
 - She looks **elegant** in that dress. (Simple Present)
 - She is being **elegant** at the party. (Present Continuous)
 - She will look **elegant** at the wedding. (Simple Future)
@@ -166,7 +166,7 @@ Beautiful and stylish.
 
 ### 10. fabric (n)
 Cloth used for making clothes, curtains, etc.
-[Ảnh minh họa](eew-3-8/10.png)
+![Ảnh minh họa](eew-3-8/10.png)
 - This **fabric** is soft. (Simple Present)
 - I am feeling the **fabric**. (Present Continuous)
 - I will buy some **fabric** tomorrow. (Simple Future)
@@ -184,7 +184,7 @@ Cloth used for making clothes, curtains, etc.
 
 ### 11. highlands (n)
 High or mountainous land.
-[Ảnh minh họa](eew-3-8/11.png)
+![Ảnh minh họa](eew-3-8/11.png)
 - The **highlands** are beautiful. (Simple Present)
 - We are visiting the **highlands** this summer. (Present Continuous)
 - We will go to the **highlands** next year. (Simple Future)
@@ -202,7 +202,7 @@ High or mountainous land.
 
 ### 12. ivory (n)
 A hard, white material from the teeth and tusks of some animals.
-[Ảnh minh họa](eew-3-8/12.png)
+![Ảnh minh họa](eew-3-8/12.png)
 - This is made of **ivory**. (Simple Present)
 - I am looking at the **ivory** statue. (Present Continuous)
 - I will buy something made of **ivory**. (Simple Future)
@@ -220,7 +220,7 @@ A hard, white material from the teeth and tusks of some animals.
 
 ### 13. mill (n)
 A building where grain is ground into flour.
-[Ảnh minh họa](eew-3-8/13.png)
+![Ảnh minh họa](eew-3-8/13.png)
 - The **mill** grinds grain. (Simple Present)
 - The **mill** is grinding grain now. (Present Continuous)
 - The **mill** will grind grain tomorrow. (Simple Future)
@@ -238,7 +238,7 @@ A building where grain is ground into flour.
 
 ### 14. needle (n)
 A small, thin piece of steel with a point at one end and a hole for thread at the other.
-[Ảnh minh họa](eew-3-8/14.png)
+![Ảnh minh họa](eew-3-8/14.png)
 - I use a **needle** to sew. (Simple Present)
 - I am using a **needle** to sew a button. (Present Continuous)
 - I will use a **needle** to fix my shirt. (Simple Future)
@@ -256,7 +256,7 @@ A small, thin piece of steel with a point at one end and a hole for thread at th
 
 ### 15. polish (v)
 To make something shine.
-[Ảnh minh họa](eew-3-8/15.png)
+![Ảnh minh họa](eew-3-8/15.png)
 - I **polish** my shoes. (Simple Present)
 - I am **polishing** my shoes now. (Present Continuous)
 - I will **polish** my shoes tomorrow. (Simple Future)
@@ -274,7 +274,7 @@ To make something shine.
 
 ### 16. sew (v)
 To use a needle and thread to make or fix clothes.
-[Ảnh minh họa](eew-3-8/16.png)
+![Ảnh minh họa](eew-3-8/16.png)
 - I **sew** clothes. (Simple Present)
 - I am **sewing** a dress. (Present Continuous)
 - I will **sew** a shirt. (Simple Future)
@@ -292,7 +292,7 @@ To use a needle and thread to make or fix clothes.
 
 ### 17. shed (n)
 A small building used for storing things.
-[Ảnh minh họa](eew-3-8/17.png)
+![Ảnh minh họa](eew-3-8/17.png)
 - I store tools in the **shed**. (Simple Present)
 - I am cleaning the **shed** now. (Present Continuous)
 - I will build a new **shed** next year. (Simple Future)
@@ -310,7 +310,7 @@ A small building used for storing things.
 
 ### 18. thread (n)
 A thin string used for sewing.
-[Ảnh minh họa](eew-3-8/18.png)
+![Ảnh minh họa](eew-3-8/18.png)
 - I use **thread** to sew. (Simple Present)
 - I am using **thread** to sew a button. (Present Continuous)
 - I will buy more **thread** tomorrow. (Simple Future)
@@ -328,7 +328,7 @@ A thin string used for sewing.
 
 ### 19. trim (v)
 To cut off small pieces of something.
-[Ảnh minh họa](eew-3-8/19.png)
+![Ảnh minh họa](eew-3-8/19.png)
 - I **trim** the grass. (Simple Present)
 - I am **trimming** the grass now. (Present Continuous)
 - I will **trim** the grass tomorrow. (Simple Future)
@@ -346,7 +346,7 @@ To cut off small pieces of something.
 
 ### 20. upwards (adv)
 Going towards a higher place or level.
-[Ảnh minh họa](eew-3-8/20.png)
+![Ảnh minh họa](eew-3-8/20.png)
 - The bird flies **upwards**. (Simple Present)
 - The bird is flying **upwards**. (Present Continuous)
 - The bird will fly **upwards** to its nest. (Simple Future)
