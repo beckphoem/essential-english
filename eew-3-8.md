@@ -362,7 +362,6 @@ Going towards a higher place or level.
 
 ## THE ANNIVERSARY GIFT
 
-<audio controls src="eew-3-8/Unit-8-The-Anniversary-Gift.mp3" title="Title"></audio>
 
 Joe was a carpenter. He bulit houses in the highlands. Joe's wife Stella used a needle and thread to sew elegant clothing. She only used beautiful fabric to make clothes.
 
